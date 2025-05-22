@@ -1,5 +1,5 @@
 # CIS3120_Project2_2 
-CIS 3120 Programming to Analytics Project 2 Question 1
+## CIS 3120 Programming to Analytics Project 2 Question 1
 ### Requires 
 ·[Python](https://www.python.org/downloads/) 
 ·[Requests](https://pypi.org/project/requests/)
@@ -21,3 +21,13 @@ CIS 3120 Programming to Analytics Project 2 Question 1
 | 3 | Ensure the requirements are fufilled: · Python · Requests · BeautifulSoup4 · Pandas · Matplotlib · python-dotenv  
 | 3 | Run main file.  **Note: The runtime is about 5-15 minutes, depending on your machine**  
         · python -m src.main
+
+
+
+
+
+
+## **Role Distribution**
+Yihui Cao - Main.py, Dataframe_api.py, Report 1  
+Mikayel Hunanyan - Combined_dataframe.py, To_csv.py, To_sql.py, Introduction.py, Report 1  
+Linh Le - Scraping.py, Dataframe.py, Report 1
