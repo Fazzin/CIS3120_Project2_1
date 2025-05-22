@@ -1,5 +1,3 @@
-scraping.py
-
 '''
 Scrapes movie data from IMDb Top 100 (or similar) chart pages using embedded JSON scripts.
 Parameter requires url(s)
