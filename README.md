@@ -19,7 +19,7 @@
 | 1 | Clone the repo  
 | 2 | Change directory to project root  
 | 3 | Ensure the requirements are fufilled: · Python · Requests · BeautifulSoup4 · Pandas · Matplotlib · python-dotenv  
-| 3 | Run main file.  **Note: The runtime is about 5-15 minutes, depending on your machine**  
+| 4 | Run main file.  **Note: The runtime is about 5-15 minutes, depending on your machine**  
         · python -m src.main
 
 
